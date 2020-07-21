@@ -1,0 +1,4 @@
+#!/usr/sbin/bash
+
+su libook -c "export DISPLAY=:0 && cd ~ && dbus-launch terminator"
+
