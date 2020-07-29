@@ -14,7 +14,7 @@ Run WSL with GUI
 
 ## Run WSL with GUI:
 
-1. Double click `config.xlaunch` and then make sure there is a icon of X Server on your tray area. (You can add a shortcut of this file into the `Startup` folder which is in `Start menu` to let it run on each startup)
+1. Double click `config.xlaunch` and then make sure there is an icon of X Server on your tray area. (You can add a shortcut of this file into the `Startup` folder which is in `Start menu` to let it run on each startup)
 2. Double click `WSL.lnk`.
 
 And then, you can see a GUI of terminator. Just run any software in terminator, you will see the GUI if there is one.
