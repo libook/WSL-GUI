@@ -24,3 +24,8 @@ And then, you can see a GUI of terminator. Just run any software in terminator, 
 ### For IDEs of JetBrains:
 
 You can just install Linux version IDE in WSL, as you did in normal Linux distributions. And run IDE from terminator. Then you can see the GUI.
+
+## Troubleshooting:
+
+You can manually start PowerShell , and run `wsl` to enter WSL environment.
+Then you can manually run `/root/start_terminator` and check if there is any error message.
